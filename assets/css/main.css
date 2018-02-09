@@ -2582,6 +2582,14 @@
 			width: 100%;
 		}
 
+<<<<<<< HEAD
+=======
+		.img-circle {
+        		border-radius: 100%;
+        		width: 50%;
+    			}
+
+>>>>>>> 141fb8d6564a704f5e11218f83aa7b18f5e9b923
 			.image.fit img {
 				width: 100%;
 			}
